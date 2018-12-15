@@ -1,1 +1,1 @@
-Run `pkg .` here!
+Run `yarn && pkg .` here!
